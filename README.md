@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Data Analyst and Engineer** with over 2 years of experience in data engineering and automation within the pharma and health sectors. Skilled in Python, SQL, and cloud technologies, I have hands-on experience in deep learning projects. I'm passionate about delivering impactful data-driven solutions and am always eager to tackle new challenges in data science.
+I'm a **Data Analyst and Engineer** with over 3 years of experience in data engineering and automation within the pharma and health sectors. Skilled in Python, SQL, and cloud technologies, I have hands-on experience in deep learning projects. I'm passionate about delivering impactful data-driven solutions and am always eager to tackle new challenges in data science.
 
 ## 🔭 Experience
 
