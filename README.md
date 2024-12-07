@@ -114,14 +114,11 @@ I'm a **Data Analyst and Engineer** with over 3 years of experience in data engi
 
 **Outcome**: Reduced the quality checking time from a week to a few days, significantly improving the efficiency of the data refresh process.
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
-- [LinkedIn](#) <!-- Replace '#' with your LinkedIn URL -->
-- [Email](mailto:#) <!-- Replace '#' with your email address -->
+- [LinkedIn](https://www.linkedin.com/in/amritrajpaul/) <!-- Replace '#' with your LinkedIn URL -->
+- [Email](mailto:amritrajpaul@gmail.com) <!-- Replace '#' with your email address -->
 
 ---
 
