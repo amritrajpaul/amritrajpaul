@@ -4,8 +4,11 @@ I'm a **Data Analyst and Engineer** with over 2 years of experience in data engi
 
 ## 🔭 Experience
 
+### **Associate at EVERSANA, Bengaluru**
+*Oct 2024 – Present*
+
 ### **Data Analyst at EVERSANA, Bengaluru**
-*Mar 2022 – Present*
+*Mar 2022 – Oct 2024*
 
 - **Managed** quarterly EMR refreshes, ensuring high-quality data delivery.
 - **Boosted** vendor data ingestion efficiency by **40%** through development and automation.
