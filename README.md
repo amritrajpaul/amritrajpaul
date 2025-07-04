@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Data Analyst and Engineer** with over 3 years of experience in data engineering and automation within the pharma and health sectors. Skilled in Python, SQL, and cloud technologies, I have hands-on experience in deep learning projects. I'm passionate about delivering impactful data-driven solutions and am always eager to tackle new challenges in data science.
+I'm a **Data Analyst and Engineer** with over 3 years of experience in data engineering and automation within the pharma and health sectors. Skilled in Python, SQL, and cloud technologies, I have hands-on experience in deep learning projects. I'm passionate about delivering impactful data-driven solutions and am always eager to tackle new challenges in data science. I also have a strong interest in **Artificial Intelligence (AI)** and its real-world applications, particularly how AI can be leveraged in healthcare to improve patient outcomes.
 
 ## 🔭 Experience
 
@@ -113,6 +113,12 @@ I'm a **Data Analyst and Engineer** with over 3 years of experience in data engi
 **Solution**: Implemented an Automated Quality Assurance Framework using Python and SQL for efficient data validation and integrity checks.
 
 **Outcome**: Reduced the quality checking time from a week to a few days, significantly improving the efficiency of the data refresh process.
+
+---
+
+### **Other Projects and Repositories**
+
+In addition to the work described above, this GitHub profile contains several other repositories that showcase my exploration of AI and data engineering. These include experiments with generative AI models, data visualization dashboards, and reusable automation tools.
 
 
 ## 📫 Let's Connect
